@@ -50,7 +50,7 @@ SECRET_MAP = {
     'hismart-us':
         b'\xd6+\x1f\xb0b\t\x19G\x87\x8c\xaak\xd0\xf8y\xf5\x933\xafp',
     'thermacell-liv':
-        b'N\x17\xab\x99\xa7\x1e\x96_\xcf\xae\x87~\xedodQ\x1e\x88\xe9\x8c\xae\xc6\xdbX\xd4\x92A\x02q\x88*\xa5'
+        b'N\x17\xab\x99\xa7\x1e\x96_\xcf\xae\x87~\xedodQ\x1e\x88\xe9\x8c\xae\xc6\xdbX\xd4\x92A\x02q\x88*\xa5',
 }
 SECRET_ID_MAP = {
     'haxxair': 'HAXXAIR',
@@ -64,6 +64,7 @@ SECRET_ID_MAP = {
     'hisense-us': 'APP1',
     'hismart-eu': 'Hismart',
     'hismart-us': 'App1',
+    'thermacell-liv': 'Thermacell_Prod-eQ-id',
 }
 SECRET_ID_EXTRA_MAP = {
     'denali-us': 'iA',
